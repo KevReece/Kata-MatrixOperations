@@ -1,1 +1,4 @@
 python/__pycache__
+csharp/obj/
+csharp/bin/
+csharp/TestResults

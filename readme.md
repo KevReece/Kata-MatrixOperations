@@ -39,3 +39,9 @@ Prerequisites: Python
 Prerequisites: Ruby
 
 `ruby ruby/test_matrix_operations.rb`
+
+### C#.Net
+
+Prerequisites: dotnet
+
+`dotnet test csharp`
