@@ -24,6 +24,8 @@ Languages
 - Java
 - Rust
 - Scala
+- R
+- Julia
 
 Run tests
 ---
@@ -45,3 +47,9 @@ Prerequisites: Ruby
 Prerequisites: dotnet
 
 `dotnet test csharp`
+
+### JavaScript
+
+Prerequisites: npm 
+
+`npm --prefix ./javascript test`

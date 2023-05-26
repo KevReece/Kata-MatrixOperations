@@ -1,4 +1,5 @@
-python/__pycache__
+python/__pycache__/
 csharp/obj/
 csharp/bin/
-csharp/TestResults
+csharp/TestResults/
+javascript/node_modules/
