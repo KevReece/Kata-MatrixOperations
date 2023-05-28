@@ -18,9 +18,9 @@ Languages
 - Ruby
 - C#
 - Javascript
+- Matlab
 - C++
 - C
-- Matlab
 - Java
 - Rust
 - Scala
@@ -53,3 +53,17 @@ Prerequisites: dotnet
 Prerequisites: npm 
 
 `npm --prefix ./javascript test`
+
+### Matlab
+
+Prerequisites: matlab 
+
+`matlab -nodesktop -r "cd matlab; run(MatrixOperationsTests)"`
+
+or 
+
+Prerequisites: Matlab online account (https://matlab.mathworks.com/)
+
+1. 'Open MATLAB online' (https://matlab.mathworks.com/)
+2. In `Files` context: Upload the 'matlab' subfolder
+3. in `Command Window`: `cd matlab; run(MatrixOperationsTests)`
