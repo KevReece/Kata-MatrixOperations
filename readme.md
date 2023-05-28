@@ -1,4 +1,4 @@
-Matrix operations in multiple languages (using standard matrix frameworks), with tests per language.
+Matrix operations in multiple languages (using standard matrix frameworks), with tests per language, for side-by-side comparison.
 
 Operations
 ---
@@ -19,13 +19,13 @@ Languages
 - C#
 - Javascript
 - Matlab
+- Julia
+- Rust
 - C++
 - C
 - Java
-- Rust
 - Scala
 - R
-- Julia
 
 Run tests
 ---
