@@ -67,3 +67,13 @@ Prerequisites: Matlab online account (https://matlab.mathworks.com/)
 1. 'Open MATLAB online' (https://matlab.mathworks.com/)
 2. In `Files` context: Upload the 'matlab' subfolder
 3. in `Command Window`: `cd matlab; run(MatrixOperationsTests)`
+
+### Julia
+
+Prerequisites: julia
+
+1. `cd julia`
+2. `julia`
+3. `]` (i.e. enter package manager mode)
+4. `activate .`
+5. `test`

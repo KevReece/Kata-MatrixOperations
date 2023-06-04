@@ -1,0 +1,5 @@
+name = "MatrixOperations"
+uuid = "d2b57326-5114-4504-a4c7-315539370212"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
